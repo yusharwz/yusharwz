@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-<p align="left"> <a href="https://twitter.com/yusharwz" target="blank"><img src="https://img.shields.io/twitter/follow/yusharwz?logo=twitter&style=for-the-badge" alt="yusharwz" /></a> </p>
+<p align="left"> <a href="https://instagram.com/yusharwz" target="blank"><img src="https://img.shields.io/twitter/follow/yusharwz?logo=twitter&style=for-the-badge" alt="yusharwz" /></a> </p>
 
 - 🔭 I’m currently working on **Ragdalion Revolusi Industri**
 
