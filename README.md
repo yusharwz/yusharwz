@@ -3,7 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusharwz&label=Profile%20views&color=0e75b6&style=flat" alt="yusharwz" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusharwz" alt="yusharwz" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=yusharwz&theme=darkhub&no-frame=true&margin-w=15" alt="yusharwz" />
+  </a> 
+</p>
 
 <p align="left"> <a href="https://twitter.com/yusharwz" target="blank"><img src="https://img.shields.io/twitter/follow/yusharwz?logo=twitter&style=for-the-badge" alt="yusharwz" /></a> </p>
 
